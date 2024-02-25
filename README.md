@@ -1,4 +1,4 @@
-# 💫 About Me: Juan Antonioo Castañeda Ramirez
+# 💫 About Me: Juan Antonio Castañeda Ramirez
 Actualmente soy aprendiz en análisis y desarrollo de software (ADSO) <br>del Servicio Nacional de Aprendizaje Sena.<br>Me dedico a aprender programación backend con Java y Spring boot
 
 
